@@ -3,5 +3,6 @@
 #include <stdio.h>
 int main()
 {
-printf("Second file to test"
+printf("Second file to test\n");
+printf("Second file to test3");
 }
